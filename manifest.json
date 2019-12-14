@@ -1,0 +1,38 @@
+{
+  "name": "SampulSastra.com",
+  "short_name": "SampulSastra",
+  "start_url": "https://www.sampulsastra.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ff",
+  "description": "Blog Karya Sastra",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-wPq_3rlEMwI/XfVgdIyu1vI/AAAAAAAAAPU/2MCsgz70NyohPM3gxAv6veIdu7rhRC4FwCLcBGAsYHQ/s1600/sampulsastra57.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3yIRCNvwJME/XfVgeBmHBeI/AAAAAAAAAPY/YQsAsdSvuuwBBGFD9Q_heZzaMoZlNNpPACLcBGAsYHQ/s1600/sampulsastra72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GBYsu2hvuM/XfVgbwjRtWI/AAAAAAAAAPA/aDfvWYSeh18XIcBc4dV6rrLVyK_H0a8aACLcBGAsYHQ/s1600/sampulsastra114.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0GBYsu2hvuM/XfVgbwjRtWI/AAAAAAAAAPA/aDfvWYSeh18XIcBc4dV6rrLVyK_H0a8aACLcBGAsYHQ/s1600/sampulsastra114.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2CNgKQiHBPI/XfVgcyAgWKI/AAAAAAAAAPQ/6x-IsDaZSMIFsk3yTU-xI94G_YnpuNqHQCLcBGAsYHQ/s1600/sampulsastra180.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q-X5l9By1r4/XfVh5H7KJkI/AAAAAAAAAP4/BDs6-SRMAcI2Yj5A0YJK6NZfznNxxnf1gCLcBGAsYHQ/s1600/sampulsastra.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Q-X5l9By1r4/XfVh5H7KJkI/AAAAAAAAAP4/BDs6-SRMAcI2Yj5A0YJK6NZfznNxxnf1gCLcBGAsYHQ/s1600/sampulsastra.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
