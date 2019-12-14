@@ -3,8 +3,8 @@
   "short_name": "SampulSastra",
   "start_url": "https://www.sampulsastra.com/",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#ff",
+  "background_color": "#4b95d0",
+  "theme_color": "#4b95d0",
   "description": "Blog Karya Sastra",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-wPq_3rlEMwI/XfVgdIyu1vI/AAAAAAAAAPU/2MCsgz70NyohPM3gxAv6veIdu7rhRC4FwCLcBGAsYHQ/s1600/sampulsastra57.png",
